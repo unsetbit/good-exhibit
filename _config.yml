@@ -1,0 +1,12 @@
+url: https://goodexhibit.com
+enforce_ssl: goodexhibit.com
+
+title: Good Exhibit
+description: >
+  A research project on humans.
+baseurl: ""
+
+permalink: pretty
+
+gems:
+  - jekyll-sitemap
