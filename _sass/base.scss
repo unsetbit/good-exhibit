@@ -56,6 +56,19 @@ a {
   &:hover { color: #0078CF; }
 }
 
+.warning {
+  background-color: yellow;
+  color: black;
+
+  &.container {
+    background-color: yellow;
+    color: black;
+  }
+
+  border-top: 5px dashed black;
+  border-bottom: 5px dashed black;
+}
+
 .dark {
   background-color: black;
   color: #ddd;
