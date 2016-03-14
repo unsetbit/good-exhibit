@@ -4,7 +4,7 @@
 
 ## Principles
 
-This is a web application about the good in people.
+This is a web application about the good in people, not labeling people as good.
 
 * The content is important. This is about people and individuals.
 * The style is important. Good and bad are always within, take care of how they
