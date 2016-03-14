@@ -1,17 +1,25 @@
 # Good Exhibit
 
-> A research project for our class.
+A web application about the good in humanity.
 
 ## Principles
 
-This is a web application about the good in people, not labeling people as good.
+This is a web application about the good in humanity, not labeling individuals
+as good. The meaning "good" should be open to debate and its value as a
+descriptor should be questioned. If there is a more accurate word for what we
+currently recognize as "good"-ness (as used in "Jesus is said to have done good
+things"), then use that word instead.
 
-* The content is important. This is about people and individuals.
+* The content is important. Focused research and awareness of novelty are both
+useful ways to craft meaningful content.
 * The style is important. Good and bad are always within, take care of how they
 are expressed. How the story is told matters as much as the story that is told.
-* The medium is important. Leverage the medium to its capacity express style and content. Leverage any and all web technologies you can to serve the style and
+* The medium is important. Leverage the medium to its capacity express style and
+content. Leverage any and all web technologies you can to serve the style and
 content.
-* The audience is important. Make it for yourself, friends, family, neighbors, and community. Appeal to emotion and reason: make it fun, interesting, and meaningful.
+* The audience is important. Make it for yourself, friends, family, neighbors,
+and community. Appeal to emotion and reason: make it fun, trustworthy,
+interesting, and meaningful.
 
 ## Contributing
 
