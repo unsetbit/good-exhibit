@@ -14,11 +14,11 @@ things"), then use that word instead.
 useful ways to craft meaningful content.
 * The style is important. Good and bad are always within, take care of how they
 are expressed. How the story is told matters as much as the story that is told.
-* The medium is important. Leverage the medium to its capacity express style and
-content. Leverage any and all web technologies you can to serve the style and
+* The medium is important. Leverage the medium to its capacity to express style and
+content. Leverage any and all technologies you can to serve the style and
 content.
 * The audience is important. Make it for yourself, friends, family, neighbors,
-and community. Appeal to emotion and reason: make it fun, trustworthy,
+ community, and world. Appeal to emotion and reason: make it fun, trustworthy,
 interesting, and meaningful.
 
 ## Contributing
